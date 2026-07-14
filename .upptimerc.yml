@@ -15,7 +15,7 @@ sites:
     url: https://zero-host.org
     expectedStatusCodes:
       - 403
-    icon: https://img.zero-host.org/assets/picto.png
+    icon: https://img.drayko.xyz/zerohost-logo.png
   - name: DraykoSearch
     url: https://search.drayko.xyz
 
