@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 249,
+    "timeDay": 249,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zero-host.org.ico",
     "slug": "zero-host",
     "status": "up",
-    "uptime": "7.08%",
-    "uptimeDay": "7.08%",
-    "uptimeWeek": "7.08%",
-    "uptimeMonth": "7.08%",
-    "uptimeYear": "7.08%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 111,
     "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2026-07-14": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
