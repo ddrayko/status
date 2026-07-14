@@ -23,8 +23,8 @@ status-website:
   cname: status.drayko.xyz
   logoUrl: https://img.drayko.xyz/ddrayko.svg
   name: Upptime
-  favicon: https://img.drayko.xyz/ddrayko.png
-  faviconSvg: https://img.drayko.xyz/ddrayko.svg
+  favicon: https://img.drayko.xyz/ddrayko-favicon.png
+  faviconSvg: https://img.drayko.xyz/ddrayko-favicon.svg
 
 workflowSchedule:
   graphs: "*/5 * * * *"
