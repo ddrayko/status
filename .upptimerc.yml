@@ -23,3 +23,12 @@ status-website:
   cname: status.drayko.xyz
   logoUrl: https://img.drayko.xyz/ddrayko.svg
   name: Upptime
+
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
