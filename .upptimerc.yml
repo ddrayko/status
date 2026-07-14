@@ -10,6 +10,8 @@ sites:
     url: https://tbxm.drayko.xyz
   - name: ZeroHost
     url: https://zero-host.org
+    expectedStatusCodes:
+      - 403
 
 status-website:
   cname: status.drayko.xyz
