@@ -4,14 +4,20 @@ repo: status
 sites:
   - name: Portfolio
     url: https://drayko.xyz
+    icon: https://img.drayko.xyz/ddrayko.png
   - name: FlexURL
     url: https://flexurl.link
+    icon: https://img.drayko.xyz/flexurl-logo.png
   - name: ToolsBoxMachine (TBXM)
     url: https://tbxm.drayko.xyz
+    icon: https://img.drayko.xyz/tbxm-logo.png
   - name: ZeroHost
     url: https://zero-host.org
     expectedStatusCodes:
       - 403
+    icon: https://img.zero-host.org/assets/picto.png
+  - name: DraykoSearch
+    url: https://search.drayko.xyz
 
 status-website:
   cname: status.drayko.xyz
