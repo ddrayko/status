@@ -13,6 +13,8 @@ sites:
   - name: ToolsBoxMachine (TBXM)
     url: https://tbxm.drayko.xyz
     icon: https://img.drayko.xyz/tbxm-logo.png
+    expectedStatusCodes:
+      - 403
   - name: ZeroHost
     url: https://zero-host.org
     expectedStatusCodes:
