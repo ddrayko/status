@@ -5,6 +5,8 @@ sites:
   - name: Portfolio
     url: https://drayko.xyz
     icon: https://img.drayko.xyz/ddrayko.png
+    expectedStatusCodes:
+      - 403
   - name: FlexURL
     url: https://flexurl.link
     icon: https://img.drayko.xyz/flexurl-logo.png
