@@ -34,3 +34,11 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+
+maintenance:
+  - title: "🚧 Maintenance: Server Migration After DDoS Attack"
+    body: "After a sustained DDoS attack, my web server's disk was permanently destroyed. I've since received a replacement, but I'm currently reinstalling and reconfiguring everything from scratch."
+    start: "2026-07-15T10:00:00.000Z"
+    end: "2026-07-20T13:00:00.000Z"
+    status:
+      - portfolio
