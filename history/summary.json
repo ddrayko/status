@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 307,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "time": 311,
+    "timeDay": 299,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://tbxm.drayko.xyz",
     "icon": "https://img.drayko.xyz/tbxm-logo.png",
     "slug": "tools-box-machine-tbxm",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 208,
-    "timeDay": 207,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "status": "up",
+    "uptime": "95.54%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
+    "time": 203,
+    "timeDay": 199,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-07-15": 0
+      "2026-07-15": 80
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
+    "time": 122,
     "timeDay": 128,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 370,
-    "timeWeek": 367,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "time": 365,
+    "timeDay": 368,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   }
 ]
