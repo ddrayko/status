@@ -17,7 +17,7 @@ sites:
       - 403
     icon: https://img.drayko.xyz/zerohost-logo.png
   - name: DraykoSearch
-    url: https://search.drayko.xyz
+    url: https://searx.drayko.xyz
 
 status-website:
   cname: status.drayko.xyz
