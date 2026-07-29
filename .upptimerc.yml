@@ -11,7 +11,6 @@ sites:
   - name: ToolsBoxMachine (TBXM)
     url: https://tbxm.drayko.xyz
     icon: https://img.drayko.xyz/tbxm-logo.png
-    icon: https://img.drayko.xyz/zerohost-logo.png
   - name: DraykoSearch
     url: https://searx.drayko.xyz
   - name: Homy
