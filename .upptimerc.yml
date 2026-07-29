@@ -11,13 +11,11 @@ sites:
   - name: ToolsBoxMachine (TBXM)
     url: https://tbxm.drayko.xyz
     icon: https://img.drayko.xyz/tbxm-logo.png
-  - name: ZeroHost
-    url: https://zero-host.org
-    expectedStatusCodes:
-      - 403
     icon: https://img.drayko.xyz/zerohost-logo.png
   - name: DraykoSearch
     url: https://searx.drayko.xyz
+  - name: Homy
+    url: https://homy.drayko.xyz
 
 status-website:
   cname: status.drayko.xyz
