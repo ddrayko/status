@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 433,
-    "timeWeek": 222,
+    "timeDay": 449,
+    "timeWeek": 224,
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
-    "timeDay": 498,
-    "timeWeek": 715,
+    "timeDay": 469,
+    "timeWeek": 716,
     "timeMonth": 668,
     "timeYear": 668,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 180,
-    "timeWeek": 107,
+    "timeDay": 187,
+    "timeWeek": 108,
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {}
@@ -58,19 +58,20 @@
     "url": "https://searx.drayko.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/searx.drayko.xyz.ico",
     "slug": "drayko-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 482,
-    "timeDay": 425,
-    "timeWeek": 617,
+    "timeDay": 433,
+    "timeWeek": 618,
     "timeMonth": 482,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2026-07-16": 58
+      "2026-07-16": 58,
+      "2026-07-30": 0
     }
   },
   {
