@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 332,
-    "timeWeek": 380,
+    "timeDay": 330,
+    "timeWeek": 379,
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 120,
-    "timeWeek": 451,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 578,
+    "timeDay": 121,
+    "timeWeek": 448,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 168,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 173,
+    "timeDay": 167,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "test",
+    "url": "https://bbbbbb.free",
+    "icon": "https://icons.duckduckgo.com/ip3/bbbbbb.free.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "75.82%",
+    "uptimeDay": "75.82%",
+    "uptimeWeek": "75.82%",
+    "uptimeMonth": "75.82%",
+    "uptimeYear": "75.82%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-02": 0
+    }
   }
 ]
