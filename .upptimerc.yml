@@ -15,6 +15,8 @@ sites:
     url: https://searx.drayko.xyz
   - name: Homy
     url: https://homy.drayko.xyz
+  - name: test
+    url: https://bbbbbb.free
 
 status-website:
   cname: status.drayko.xyz
