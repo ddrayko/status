@@ -31,3 +31,7 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+
+commitMessages:
+  commitAuthorName: "ddrayko-bot"
+  commitAuthorEmail: "305825605+ddrayko-bot@users.noreply.github.com"
