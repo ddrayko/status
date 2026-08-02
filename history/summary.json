@@ -58,21 +58,21 @@
     "url": "https://searx.drayko.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/searx.drayko.xyz.ico",
     "slug": "drayko-search",
-    "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 473,
-    "timeDay": 427,
-    "timeWeek": 421,
+    "timeDay": 423,
+    "timeWeek": 420,
     "timeMonth": 473,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2026-07-16": 58,
       "2026-07-30": 226,
-      "2026-08-02": 0
+      "2026-08-02": 20
     }
   },
   {
