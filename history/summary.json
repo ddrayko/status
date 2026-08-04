@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 269,
+    "timeDay": 260,
     "timeWeek": 400,
     "timeMonth": 198,
     "timeYear": 198,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 108,
-    "timeWeek": 320,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "time": 551,
+    "timeDay": 111,
+    "timeWeek": 313,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -59,21 +59,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.drayko.xyz.ico",
     "slug": "drayko-search",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.53%",
+    "uptimeDay": "90.63%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 468,
-    "timeDay": 423,
-    "timeWeek": 420,
+    "timeDay": 418,
+    "timeWeek": 421,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2026-07-16": 58,
       "2026-07-30": 226,
       "2026-08-02": 20,
-      "2026-08-03": 44
+      "2026-08-04": 61,
+      "2026-08-03": 74
     }
   },
   {
@@ -87,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
+    "time": 166,
     "timeDay": 136,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   }
 ]
